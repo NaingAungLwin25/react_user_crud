@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mg Mg",
+      "email": "mgmg@gmail.com",
+      "password": "1234",
+      "age": 20,
+      "regions": "Yangon",
+      "phoneNumber": "0912884949",
+      "isGraduated": true,
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "name": "Ma Ma",
+      "email": "mama@gmail.com",
+      "password": "1234",
+      "age": 20,
+      "regions": "pago",
+      "phoneNumber": "0912884949",
+      "isGraduated": true,
+      "gender": "female"
+    },
+    {
+      "id": "3",
+      "name": "ayeaye",
+      "email": "ayeaye@gmail.com",
+      "password": "1234",
+      "age": "25",
+      "regions": "Mandalay",
+      "phoneNumber": "03434343",
+      "isGraduated": true,
+      "gender": "female"
+    },
+    {
+      "id": "8b17",
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "age": "25",
+      "regions": "Mandalay",
+      "phoneNumber": "03434343",
+      "isGraduated": true,
+      "gender": "female"
+    },
+    {
+      "id": "392c",
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "age": "25",
+      "regions": "Mandalay",
+      "phoneNumber": "03434343",
+      "isGraduated": true,
+      "gender": "female"
+    }
+  ]
+}
