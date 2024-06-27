@@ -5,8 +5,8 @@
       "name": "Mg Mg",
       "email": "mgmg@gmail.com",
       "password": "1234",
-      "age": 20,
-      "regions": "Yangon",
+      "age": "22",
+      "regions": "Bago",
       "phoneNumber": "0912884949",
       "isGraduated": true,
       "gender": "male"
@@ -27,7 +27,7 @@
       "name": "ayeaye",
       "email": "ayeaye@gmail.com",
       "password": "1234",
-      "age": "25",
+      "age": "30",
       "regions": "Mandalay",
       "phoneNumber": "03434343",
       "isGraduated": true,
@@ -35,25 +35,36 @@
     },
     {
       "id": "8b17",
-      "name": "test",
-      "email": "test@gmail.com",
+      "name": "Htwe Htwe",
+      "email": "htwe@gmail.com",
       "password": "1234",
-      "age": "25",
-      "regions": "Mandalay",
-      "phoneNumber": "03434343",
+      "age": "20",
+      "regions": "Pyay",
+      "phoneNumber": "0966434343",
+      "isGraduated": false,
+      "gender": "Female"
+    },
+    {
+      "id": "7e39",
+      "name": "Muyar",
+      "email": "muyar@gamil.com",
+      "password": "333444",
+      "age": "20",
+      "regions": "Taungyi",
+      "phoneNumber": "09423667664",
       "isGraduated": true,
       "gender": "female"
     },
     {
-      "id": "392c",
-      "name": "test",
-      "email": "test@gmail.com",
-      "password": "1234",
+      "id": "03e9",
+      "name": "Phyu Phyu",
+      "email": "phyu123@gmail.com",
+      "password": "333444",
       "age": "25",
-      "regions": "Mandalay",
-      "phoneNumber": "03434343",
-      "isGraduated": true,
-      "gender": "female"
+      "regions": "Yangon",
+      "phoneNumber": "09423667664",
+      "isGraduated": false,
+      "gender": "Other"
     }
   ]
 }

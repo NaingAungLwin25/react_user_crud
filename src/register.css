@@ -1,0 +1,63 @@
+/* register.css */
+
+.register-container {
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register-container .ant-form-item-label > label {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .register-container .ant-form-item {
+    margin-bottom: 16px;
+  }
+  
+  .register-container .ant-input,
+  .register-container .ant-checkbox-wrapper,
+  .register-container .ant-select {
+    width: 100%;
+  }
+  
+  .register-container .ant-select-selector {
+    width: 100% !important;
+  }
+  
+  .register-container .ant-btn {
+    width: 100%;
+    background-color: #1890ff;
+    color: white;
+    border: none;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 4px;
+  }
+  
+  .register-container .ant-btn:hover {
+    background-color: #40a9ff;
+  }
+  
+  .register-container .ant-btn:focus {
+    background-color: #1890ff;
+    color: white;
+  }
+  
+  .register-container .ant-form-item-control-input-content > .ant-checkbox-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  
+  .register-container .ant-form-item-control-input-content > .ant-checkbox-wrapper .ant-checkbox {
+    margin-right: 8px;
+  }
+  
+  .register-container .ant-form-item-control-input-content > .ant-checkbox-wrapper span {
+    line-height: 32px;
+  }
+  
